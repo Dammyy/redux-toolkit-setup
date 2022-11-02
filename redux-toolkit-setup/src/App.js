@@ -1,7 +1,7 @@
 
-import Snackbar from './Sanckbar';
+import Snackbar from './Snackbar/Sanckbar';
 import { useDispatch } from 'react-redux';
-import { showSnackbar } from './snackbarSlice';
+import { showSnackbar } from './Snackbar/snackbarSlice';
 import './App.css';
 import { Button } from '@mui/material';
 
